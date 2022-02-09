@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riamortega
+- 👋 Hi, I’m Manuel Ortega
 
 
 <!---
